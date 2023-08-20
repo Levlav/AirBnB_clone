@@ -1,1 +1,1 @@
-web_static for alx 2023
+web static for alx 2023
